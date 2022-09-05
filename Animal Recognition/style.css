@@ -1,0 +1,44 @@
+body
+{
+    background-color: blueviolet;
+    color: aqua;
+}
+
+#audio
+{
+    background-color: yellow;
+    border-radius: 3px;
+    border-color: aqua;
+    color: black;
+    height: 30px;
+    font-weight: bold;
+}
+
+.main_div
+{
+    font-style: normal;
+    margin-top: 25px;
+
+}
+
+.header_div
+{
+    background-color: rgb(136, 27, 238);
+}
+
+p
+{
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.5mm;
+    font-size: large;
+}
+
+.copy_right_footer
+{
+    background-color: red;
+    color: orange;
+    font-size: large;
+    text-shadow: 5mm;
+    line-height: 5mm;
+}
